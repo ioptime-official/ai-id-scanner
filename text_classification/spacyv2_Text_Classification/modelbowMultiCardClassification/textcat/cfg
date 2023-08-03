@@ -1,0 +1,14 @@
+{
+  "exclusive_classes":true,
+  "architecture":"bow",
+  "labels":[
+    "passport",
+    "sa_id_card",
+    "kenya_id_card",
+    "sa_license",
+    "zim_license",
+    "zim_id_card",
+    "kenya_license"
+  ],
+  "pretrained_vectors":null
+}
