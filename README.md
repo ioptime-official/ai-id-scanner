@@ -1,5 +1,8 @@
 # Extracting Text from IDs and Passports using PaddleOCR
 
+![Card Extraction Workflow](https://github.com/ioptime-official/ai-id-scanner/assets/50315486/d922ba71-ede9-4a42-83e2-ae63ec70b110)
+
+
 ## Scope
 This repository includes files and instructions on how to use PaddleOCR to extract text from images of South African/Zimbabwe IDs and passports. 
 
