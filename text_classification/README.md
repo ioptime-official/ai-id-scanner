@@ -1,4 +1,4 @@
-# Text Classification using spaCy v2 and v3
+# Text Classification using SpaCy v2 and v3
 Welcome to the Text Classification section of the AI ID Card Scanner, where we explore the implementation of text classification using two versions of spaCy: v2 and v3. This section aims to demonstrate how spaCy can be utilized to classify various types of identification documents from different regions, including South Africa, Zimbabwe, and Kenya.
 ## Scope and Purpose
 
