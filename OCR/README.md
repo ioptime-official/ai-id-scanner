@@ -1,7 +1,4 @@
-# Extracting Text from IDs and Passports using PaddleOCR
-
-## Scope
-This repository includes files and instructions on how to use PaddleOCR to extract text from images of South African/Zimbabwe IDs and passports. 
+# Extracting Text using PaddleOCR
 
 ## Installation
 
@@ -20,18 +17,17 @@ The card and passport images are in **doc/id/**
 ```sh
 python3 tools/infer/predict_system.py --image_dir="./doc/id/passport.png" --det_model_dir="./en_PP-OCRv3_det_infer/" --cls_model_dir="./ch_ppocr_mobile_v2.0_cls_infer/" --rec_model_dir="./en_PP-OCRv3_rec_infer/" --use_angle_cls=true --rec_char_dict_path="ppocr/utils/en_dict.txt"
 ```
-## OCR Results on ID Cards
-
-The inferencing results on Id cards and passports are as follows:
 
 ### South Africa ID Card
-![Card Image 1](https://github.com/ioptime-official/ai-id-scanner/blob/main/inference_results/1.jpg)
+
+![sa_id_card2](https://github.com/ioptime-official/ai-id-scanner/assets/50315486/02d9e8f0-a1b8-4734-9a19-6d5e18cac4b7)
 
 ### Zimbabwe ID Card
-![Card Image 2](https://github.com/ioptime-official/ai-id-scanner/blob/main/inference_results/15.png)
+![5](https://github.com/ioptime-official/ai-id-scanner/assets/50315486/c805fd5d-438e-485c-9842-e073455017b4)
 
 ### Passport
-![Passport Image 1](https://github.com/ioptime-official/ai-id-scanner/blob/main/inference_results/5.jpg)
+![south_africa_preview](https://github.com/ioptime-official/ai-id-scanner/assets/50315486/9ea69ed5-3d06-4eda-92a7-bff882f05b16)
+
 
 ## References
 
