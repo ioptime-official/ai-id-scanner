@@ -8,6 +8,7 @@ To install the required packages, you need to run the following command in your 
 python<=3.7
 pip install -r requirements.txt
 ```
+The models for inferenxing an be directly downloaded from PaddleOCR Github repo [PaddleOCR]([https://breakdance.github.io/breakdance/](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.7/doc/doc_en/models_list_en.md)) 
 ## Inferencing
 
 Use the command below on Terminal, change the Detection Model path, Recognition Model path and Classification Model path accordingly, after that provide the respective dictionary for the model used.
