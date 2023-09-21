@@ -4,7 +4,7 @@
 
 
 ## Scope
-This repository includes files and instructions on how to use PaddleOCR to extract text from images of South African,Zimbabwe, Kenyan IDs passports and Driving Lisences. 
+This repository includes files and instructions on how to use PaddleOCR to extract text from images of South African, Zimbabwe, Kenyan IDs passports and Driving Lisences. 
 
 ## ID Card Analysis
 
