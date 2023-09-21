@@ -1,6 +1,8 @@
 # Extracting Text from IDs and Passports using PaddleOCR
 
-![Card Extraction Workflow](https://github.com/ioptime-official/ai-id-scanner/assets/50315486/d922ba71-ede9-4a42-83e2-ae63ec70b110)
+
+![Combined Portfolio](https://github.com/ioptime-official/ai-id-scanner/assets/50315486/8cb547e6-32ea-4edb-b203-cdca44f8e04b)
+
 
 
 ## Scope
