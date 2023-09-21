@@ -1,0 +1,8 @@
+# train and val data
+train: /home/ioptime/workfolder/signature_recognition/yolov5/yolov5/dataset/images/train/
+val: /home/ioptime/workfolder/signature_recognition/yolov5/yolov5/dataset/images/val/
+# number of classes
+nc: 1
+
+# class names
+names: ['signature']
